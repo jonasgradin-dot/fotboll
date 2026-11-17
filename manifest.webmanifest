@@ -1,7 +1,7 @@
 {
- "name": "Dagens fotbollspass",
+ "name": "Fotbollspass individ",
  "short_name": "Fotbollspass",
- "description": "Ett nytt 15-minuterspass för fotbollsspelare varje dag, utan redskap.",
+ "description": "Dagens fotbollspass för den enskilda spelaren: anpassat efter säsong, nivå och löpning. Allt sparas bara i din egen mobil.",
  "lang": "sv",
  "start_url": "./",
  "scope": "./",
@@ -28,5 +28,6 @@
    "type": "image/png",
    "purpose": "maskable"
   }
- ]
+ ],
+ "id": "./?app=individ"
 }
